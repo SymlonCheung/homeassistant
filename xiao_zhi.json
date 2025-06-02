@@ -3,7 +3,7 @@
   "wake_word": "xiao_zhi",
   "author": "SymlonCheung",
   "website": "https://github.com/SymlonCheung",
-  "model": "https://raw.githubusercontent.com/SymlonCheung/homeassistant/refs/heads/main/xiao_zhi.tflite",
+  "model": "xiao_zhi.tflite",
   "version": 2,
   "trained_languages": ["zh"],
   "micro": {
